@@ -1,8 +1,8 @@
 %% Overview of Pretrained Convolutional Neural Networks
 % Load AlexNet into a network variable in MATLAB
-
 [net, classes] = imagePretrainedNetwork("alexnet"); % Error? Then, install 'Deep Learning Toolbox Model for AlexNet Network' in Add-Ons Explorer
 
+% Peek into AlexNet
 % View the layers of AlexNet and save the layers to a variable
 layers = net.Layers
 
