@@ -1,1 +1,1 @@
-TestImages, TrainingImages 파일 업로드 실패
+TrainingImages 파일 업로드 실패
