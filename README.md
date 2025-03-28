@@ -2,8 +2,6 @@
 Artificial Intelligence using MATLAB
 
 ## Add-On Required <br/>
-|Add-On|
-|:-|
 |Computer Vision Toolbox|
 |Deep Learning Toolbox|
 |Deep Learning Toolbox Model for AlexNet Network|
